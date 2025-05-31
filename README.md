@@ -1,6 +1,6 @@
 # 🛡️ DefendX Agent Installation
 
-The **DefendX Agent** provides secure, efficient monitoring and control for your Linux environment. This lightweight agent is designed to integrate with DefendX's infrastructure and provide seamless deployment across Linux systems.
+The **DefendX Agent** provides secure, efficient monitoring and control for your environment. This lightweight agent is designed to integrate with DefendX's infrastructure and provide seamless deployment across multiple systems.
 
 ---
 
