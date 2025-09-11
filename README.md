@@ -320,8 +320,4 @@ echo "Built and packaged wazuh-${WAZUH_VER} -> wazuh.zip"
 
 ---
 
-If you want, I can:
-- produce a ready-to-run Windows PowerShell script that applies your company branding and runs the WiX build automatically, or
-- convert this document into a PDF/README file and provide a download link.
-
 
